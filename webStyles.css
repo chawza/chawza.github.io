@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+nav {
+    background-color: #6B818C;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 7vh;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-around;
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+a {
+    text-decoration: none;
+    color:black;
+    color: white;
+}
+a:hover {
+    color: #CC2936;
+}
+
+main {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2vh;
+    width: 60%;
+    margin: auto;
+    padding: 50px;
+}
+
+#introduction {
+    text-align: justify;
+}
+
+footer {
+    background-color: #08415C;
+    margin-top: 50px;
+}
+
+footer img {
+    padding: 2%;
+    width : 5%
+}
